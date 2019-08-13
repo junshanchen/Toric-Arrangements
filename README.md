@@ -9,9 +9,13 @@ I did this project during 2019 Summer with joint work of Yue (Amanda) Yao,
 under the mentoring of Dr. Christin Bibby, a combinatorial topologist,
 supported by the Mathematics department in the University of Michigan.
 
-This depository is a record of the SageMath code we wrote to construct the posets and 
-polynomials associating with a toric arrangement. And also include the paper we wrote as a 
-result of REU.
+This depository is a record of the SageMath (a python-based mathematical tool) code we 
+wrote to construct the posets and polynomials associating with a toric arrangemenand the 
+paper we wrote as a result of REU.
+
+Files:
+The Faces of Toric Arrangements.pdf is the paper for this project
+Toric_Arrangement_Polynomials.sage is the program we wrote for this project.
 
 The paper will be post in the website of math department later.
 
