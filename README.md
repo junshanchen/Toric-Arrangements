@@ -13,6 +13,6 @@ This depository is a record of the SageMath (a python-based mathematical tool) c
 wrote to construct the posets and polynomials associating with a toric arrangement and
 the paper we wrote as a final report of REU.
 
-The paper will be post in the website of math department later.
-
-
+The paper is posted on the website of Department of Mathematics, University of Michigan:
+https://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/research/research-experience-for-undergraduates--reu-/recent-reu-projects.html
+(Under Summer 2019)
